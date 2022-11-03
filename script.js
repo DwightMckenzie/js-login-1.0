@@ -33,29 +33,3 @@ function reveal(cnt) {
         console.info(`Username: ${un} & Password: ${pw}`);
     }
 }
-
-
-/*console.log(userName, passWord);*/
-
-
-
-/*var button1 = document.getElementById("access");.value
-// function expression
-button1.onclick = function() {
-    var input1 = document.createElement("input");
-    
-    prompt(input1);
-    
-}*/
-
-
-/*function done() { 
-    document.getElementById("popup").style.display = "none";
-    var password = document.getElementById("pass").value;
-    
-    //DO STUFF WITH PASSWORD HERE    
-};
-
-function showPopup() {
-     document.getElementById("popup").style.display = "block";
-}*/
